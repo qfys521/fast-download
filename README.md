@@ -80,6 +80,7 @@ fileDownloader.multiThreadDownload(fileURL, "/Users/huaan9527/Desktop/7101962749
 [https://silently9527.cn/](https://silently9527.cn/)
 
 ## 捐赠研发
-如果您认为此项目帮到了您的开发工作,您可以捐赠我一杯可乐(相信这比打赏主播更有意义)。
+如果您认为此项目帮到了您的开发工作,您可以捐赠我一杯可乐(相信这比打赏主播更有意义)。   
+ps.这是原作者的赞助链接
 
 <img width="200" src="https://tva1.sinaimg.cn/large/008eGmZEgy1gn63yahvn4j30ia0igjsw.jpg" >
