@@ -1,5 +1,7 @@
 ### 介绍
 本项目主要是通过Java实现了大文件的多线程下载，以及突破云盘限速
+原作者:[silently9527](https://gitee.com/silently9527)
+原项目链接[FastDownload](https://gitee.com/silently9527/fast-download)
 
 ### 使用方式
 
@@ -45,13 +47,13 @@ fileDownloader.multiThreadDownload(fileURL, "/Users/huaan9527/Desktop/7101962749
 
 云盘单线程下载限速100kb，为了充分的压榨网速，所以做了不同线程的测试速度
 
-线程数 | 下载总耗时 
----|---
- 10 | 60s 
- 20 | 30s 
- 30 | 21s
- 40 | 15s
- 50 | 13s
+| 线程数 | 下载总耗时 |
+|-----|-------|
+| 10  | 60s   |
+| 20  | 30s   |
+| 30  | 21s   |
+| 40  | 15s   |
+| 50  | 13s   |
 
 由于自己的最大下载速度是 2M，所以线程数设置在30个下载速度比较合适
 
@@ -80,4 +82,4 @@ fileDownloader.multiThreadDownload(fileURL, "/Users/huaan9527/Desktop/7101962749
 ## 捐赠研发
 如果您认为此项目帮到了您的开发工作,您可以捐赠我一杯可乐(相信这比打赏主播更有意义)。
 
-<img width="200" src="https://tva1.sinaimg.cn/large/008eGmZEgy1gn63yahvn4j30ia0igjsw.jpg">
+<img width="200" src="https://tva1.sinaimg.cn/large/008eGmZEgy1gn63yahvn4j30ia0igjsw.jpg" >
