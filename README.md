@@ -1,6 +1,6 @@
 ### 介绍
 本项目主要是通过Java实现了大文件的多线程下载，以及突破云盘限速
-原作者:[silently9527](https://gitee.com/silently9527)
+原作者:[silently9527](https://gitee.com/silently9527)   
 原项目链接[FastDownload](https://gitee.com/silently9527/fast-download)
 
 ### 使用方式
